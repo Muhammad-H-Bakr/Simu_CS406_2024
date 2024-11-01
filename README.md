@@ -1,1 +1,3 @@
-# Simu_CS406_2024
+**Simulation Quizzes/Tasks/Projects for Group 1.**
+
+**Using : AnyLogic/Python.**
