@@ -1,3 +1,3 @@
-**Simulation Quizzes/Tasks/Projects for Group 1.**
+**Simulation Quizzes/Tasks/Project for Group 1.**
 
 **Using : AnyLogic/Python.**
